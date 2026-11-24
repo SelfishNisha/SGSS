@@ -18,6 +18,7 @@ Finally a place you can learn that shit
 - [Unicode](./fundamental/unicode.md)
 - [Cheats](./fundamental/cheats.md)
 - [Bypass](./fundamental/bypass.md)
+- [Virtualization](./fundamental/virtualization.md)
 
 ## Refrences
 
