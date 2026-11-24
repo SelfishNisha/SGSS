@@ -14,6 +14,7 @@ Finally a place you can learn that shit
 - [Files in session](./fundamental/files%20in%20session.md)
 - [Logon time](./fundamental/logon%20time.md)
 - [Macros](./fundamental/macros.md)
+- [Strings](./fundamental/strings.md)
 
 ## Refrences
 
