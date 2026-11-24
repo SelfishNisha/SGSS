@@ -21,6 +21,7 @@ Finally a place you can learn that shit
 - [Virtualization](./fundamental/virtualization.md)
 - [File extensions](./fundamental/file%20extensions.md)
 - [Exit codes](./fundamental/exit%20codes.md)
+- [Tracking](./fundamental/tracking.md)
 
 ## Refrences
 
