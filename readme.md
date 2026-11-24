@@ -17,6 +17,7 @@ Finally a place you can learn that shit
 - [Strings](./fundamental/strings.md)
 - [Unicode](./fundamental/unicode.md)
 - [Cheats](./fundamental/cheats.md)
+- [Bypass](./fundamental/bypass.md)
 
 ## Refrences
 
