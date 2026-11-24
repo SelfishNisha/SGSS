@@ -10,4 +10,4 @@ Finally a place you can learn that shit
 ## Fundamentals
 
 - [Journal](./fundamental/journal.md)
-- [File systems](./fundamentals/file%20systems.md)
+- [File systems](./fundamental/file%20systems.md)
