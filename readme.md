@@ -12,3 +12,7 @@ Finally a place you can learn that shit
 - [Journal](./fundamental/journal.md)
 - [File systems](./fundamental/file%20systems.md)
 - [Files in session](./fundamental/files%20in%20session.md)
+
+## Refrences
+
+- [Screen share alliance | ES](https://discord.gg/57cupY6jSM)
