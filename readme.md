@@ -15,6 +15,7 @@ Finally a place you can learn that shit
 - [Logon time](./fundamental/logon%20time.md)
 - [Macros](./fundamental/macros.md)
 - [Strings](./fundamental/strings.md)
+- [Unicode](./fundamental/unicode.md)
 
 ## Refrences
 
