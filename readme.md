@@ -6,3 +6,7 @@ Finally a place you can learn that shit
 - [What is screen sharing?](./culture/what-is-ss.md)
 - [Screen sharing history.](./culture/history.md)
 - [Advices.](./culture/advices.md)
+
+## Fundamentals
+
+- [Journal.](./fundamental/journal.md)
