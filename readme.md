@@ -19,6 +19,7 @@ Finally a place you can learn that shit
 - [Cheats](./fundamental/cheats.md)
 - [Bypass](./fundamental/bypass.md)
 - [Virtualization](./fundamental/virtualization.md)
+- [File extensions](./fundamental/file%20extensions.md)
 
 ## Refrences
 
