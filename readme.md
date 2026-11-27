@@ -23,6 +23,16 @@ Finally a place you can learn that shit
 - [Exit codes](./fundamental/exit%20codes.md)
 - [Tracking](./fundamental/tracking.md)
 
+## Todos
+
+- Add system informer dump to [Dump](./fundamental/dump.md)
+- Add ram dump to [Dump](./fundamental/dump.md)
+- Add keernel dump to [Dump](./fundamental/dump.md)
+
+- Add how to get logon time to [Logon time](./fundamental/logon%20time.md)
+
+- Add replaces so [mz magic numbers](./fundamental/mz%20magic%20number.md) is valid
+
 ## Refrences
 
 - [Screen share alliance | ES](https://discord.gg/57cupY6jSM)
