@@ -22,6 +22,8 @@ Finally a place you can learn that shit
 - [File extensions](./fundamental/file%20extensions.md)
 - [Exit codes](./fundamental/exit%20codes.md)
 - [Tracking](./fundamental/tracking.md)
+- [Dump](./fundamental/dump.md)
+- [MZ magic number](./fundamental/mz%20magic%20number.md)
 
 ## Todos
 
